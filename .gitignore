@@ -1,0 +1,3 @@
+# Local test leftovers: the entry runs from source (python3 main.py).
+__pycache__/
+*.pyc
